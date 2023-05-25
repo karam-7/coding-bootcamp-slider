@@ -1,5 +1,5 @@
-const back = document.querySelectorAll('#back');
-const next = document.querySelectorAll('#next');
+const back = document.querySelectorAll('.back');
+const next = document.querySelectorAll('.next');
 const sliders = document.querySelectorAll('.slider');
 
 let currentItem = 0;

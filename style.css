@@ -61,13 +61,13 @@ body{
     width: 90%;
 }
 
-#next, #back{
+.next, .back{
     cursor: pointer;
     border: none;
     background: transparent;
 }
 
-#next{
+.next{
     margin-left: 1rem;
 }
 
